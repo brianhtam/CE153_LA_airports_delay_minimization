@@ -1,9 +1,8 @@
-# A Forced Market Optimization
- of Los Angeles Area Airport Delays
+# A Forced Market Optimization of Los Angeles Area Airport Delays
 
-Team J4 + B
+## Project Team
 
-Jerry Chen, Jules Pommies, John Stuart, Jack Wegleitner, and Brian Tam
+Brian Tam, Jerry Chen, Jules Pommies, John Stuart, and Jack Wegleitner
 
 Table of Contents
 
