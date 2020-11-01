@@ -2,32 +2,32 @@
 A study of a “forced market” to minimalize airline delays in [region] airport system:
 Helping relieve congestion/delays at LAX by re-directing flights to other 4 LA area airports
 
-# Primary Research Question: 
+### Primary Research Question: 
 How should LA air traffic be redistributed among the 5 major LA airports to minimize delays and what incentives would be required to achieve that distribution?
 
-# Proposal: 
+### Proposal: 
 Our project is to investigate the capacity and limitations of the 5 Los Angeles area airports (LAX, LGB, SNA, ONT, BUR) and determine a way to optimally redistribute traffic among them for the primary purpose of reducing delays and associated carbon footprint. Two of these airports already cooperate to some extent under LAWA (Los Angeles World Airports, LAX and ONT). However the other three are separate entities, and all are subject to market forces. We will be considering a situation where all five airports are able to cooperate to determine and implement the most efficient traffic distribution and what incentives would be required to achieve that distribution. 
 By reducing airline delays, passengers may enjoy a smoother traffic experience, aircraft fuel burn may be reduced, and air travel carbon footprint will be reduced. 
 However, implementing such traffic redistribution will come with costs, including possible increased total travel time, increased fare, and increased psychological/convenience costs. The study will seek to determine what incentives are necessary to encourage travelers to follow the offerings of the redistributed traffic. 
 
-# Project Ideas
+### Project Ideas
 What about a study on cooperation among the 5 LA airports.
 Determine the limitations on expansion and capacity for each airport. Research major challenges each one faces and consider scenarios where airports expand to optimize further.
 Working with SCT (Southern California TRACON) 
 
-# Possible Databases
+### Possible Databases
 ASPM (Aviation Systems Performance Modeling) - Wheels down to gate docking
 Sabre (Semi-automated Business Research Environment) database
 BTS (Bureau of Transportation Statistics) Publicly available
 ICAO (International Civil Aviation Organization) Database
 
 
-# Possible Data Sets
+### Possible Data Sets
 Which airports planes fly in to
 What time these planes fly in
 What aircraft type the airlines will use
  
-# Defining “What we can improve”
+### Defining “What we can improve”
 Reducing/balance flight delays and travel time
 Reducing fuel expenses / carbon footprint
 Opportunities for operation improvement/expansion at the smaller airports
@@ -35,7 +35,7 @@ Opportunities for LAX to transition to lower volume, higher density internationa
 What kind of incentives to passengers, airlines, communities, would be required for this to happen
 How changing flight (market) distribution will increase costs (travel time, transit time, convenience costs)
  
-# Consider
+### Consider
 Changing direct/nonstop to hub-and-spoke routes (help reduce carbon footprint) à greater load factors à research aircraft fuel performance
 Different communities’ perspectives on carbon footprints
 Ways to compute carbon footprint based on other factors (ex. flight time, aircraft type, ground delays)
@@ -43,7 +43,7 @@ Includes average fuel cost of taxi time, delays, flight length,
 What the main source of delays at LAX is (runway congestions vs gate congestion, probably the latter) and identifying other limiting factors that could pose a problem in any attempt to expand operations
 Possibly improving landside facilities such as adding a people mover similar to AirBART in between the crenshaw line (in construction) and the terminal.
 
-# Resources
+### Resources
 Live Tracking LA airspace traffic: http://www.lawa.org/welcome_LAX.aspx?id=792
 LAX Specific Flight Tracker: http://flightaware.com/live/airport/KLAX
 Singular picture of LAX arrival and departure routes http://www.lawa.org/welcome_LAX.aspx?id=11482
@@ -67,7 +67,7 @@ https://www.faa.gov/airports/planning_capacity/profiles/media/Airport-Capacity-P
 https://en.wikipedia.org/wiki/Southern_California_TRACON TRACON organization
 http://www.lawa.org/uploadedfiles/spas/pdf/SPAS%20REPORT/LAX%20SPAS%20Report%20App%20F-2%20Alt%20SIMMOD%20Simulation%20Final.pdf LAX air routes and Tracon data
 
-Airport Quick Facts
+### Airport Quick Facts
 Bob Hope (BUR)
 Gates: 14
 Total Operations: 130,756
