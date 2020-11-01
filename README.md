@@ -2,7 +2,7 @@
 
 ## Project Team
 
-Brian Tam, Jerry Chen, Jules Pommies, John Stuart, and Jack Wegleitner
+**Brian Tam, Jerry Chen, Jules Pommies, John Stuart, and Jack Wegleitner**
 
 Table of Contents
 
