@@ -4,7 +4,7 @@
 
 **Brian Tam, Jerry Chen, Jules Pommies, John Stuart, and Jack Wegleitner**
 
-Table of Contents
+## Table of Contents
 
 **[Abstract](#_gkkg4dwfqdw1) 2**
 
